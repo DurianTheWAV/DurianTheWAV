@@ -40,6 +40,4 @@
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### My WakaTime datas
-{{ wakatimeData.HumanReadableTotal }}
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
