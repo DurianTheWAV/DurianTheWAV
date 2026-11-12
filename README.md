@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DurianTheWAV&show_icons=true&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=DurianTheWAV&show_icons=true&include_all_commits=true&theme=synthwave)<br/>
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a><br/>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DurianTheWAV&layout=compact&langs_count=4&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=DurianTheWAV&layout=compact&langs_count=4&theme=synthwave&exclude_repo="CalculatoRTX")
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DurianTheWAV&layout=compact&langs_count=4&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=DurianTheWAV&layout=compact&langs_count=4&theme=synthwave&exclude_repo=CalculatoRTX)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
